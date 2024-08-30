@@ -1,0 +1,35 @@
+{
+  "name": "shahnawaz-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@tsparticles/all": "^3.5.0",
+    "@tsparticles/react": "^3.0.0",
+    "clsx": "^2.1.1",
+    "emailjs": "^4.0.3",
+    "framer-motion": "^11.3.31",
+    "lucide-react": "^0.436.0",
+    "next": "14.1.0",
+    "react": "18",
+    "react-dom": "18",
+    "react-responsive": "^10.0.0",
+    "react-toastify": "^10.0.5",
+    "react-tsparticles": "^2.12.2",
+    "tailwind-merge": "^2.5.2",
+    "tsparticles": "^3.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.0.1",
+    "eslint": "8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "8",
+    "tailwindcss": "3.3.0"
+  }
+}
