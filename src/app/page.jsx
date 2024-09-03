@@ -47,7 +47,7 @@ const Homepage = () => {
           {/* BUTTONS */}
           <div className="w-full flex gap-4 z-20">
             <a href="/portfolio" className=" p-2 md:p-4 rounded-lg ring-1 ring-black bg-black text-white hover:bg-gray-800">View my Work</a>
-            <a href="/Resume23V.pdf" download="Shahnawaz's_Resume.pdf">
+            <a href="/Resume23V1.pdf" download="Shahnawaz's_Resume.pdf">
               <button className="p-2 md:p-4 rounded-lg ring-1 ring-black hover:bg-black hover:text-white">
                 Download Resume
               </button>
