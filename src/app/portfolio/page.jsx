@@ -29,6 +29,13 @@ const Example = () => {
       videoSrc: "/chatappfinal.mp4",
       url: "https://chat-up-wxxp.onrender.com",
     },
+    {
+      title: "Backend Structure CLI",
+      description:
+        "A CLI tool for generating backend structure with RBAC support.",
+      videoSrc: "/backendCLI.mp4",
+      url: "https://www.npmjs.com/package/backendstruct",
+    },
   ];
   return ( 
     <motion.div
